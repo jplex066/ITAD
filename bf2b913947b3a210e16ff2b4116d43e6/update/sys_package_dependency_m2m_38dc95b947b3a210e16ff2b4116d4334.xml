@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Asset Management" source="com.snc.asset_management">40e5d8eb98a0221055904c91e2b654ac</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-06 00:00:22</sys_created_on>
+        <sys_id>38dc95b947b3a210e16ff2b4116d4334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="ITAD" source="x_1353981_itad">bf2b913947b3a210e16ff2b4116d43e6</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-06 00:00:22</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
